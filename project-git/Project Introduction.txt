@@ -1,3 +1,6 @@
-This project is about creating a virtual machine that will help users to do their work 
+This project is about creating a virtual bot that will help users to do their work 
 by using some voice commands. Moreover this Virtual machine will interact with users in
 voice and visual manner.
+
+This application will be a standalone application which means user does not require to be 
+Connected to  the internet.
