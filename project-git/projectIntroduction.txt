@@ -1,2 +1,0 @@
-Project Introduction
-Enter a new value = 1
