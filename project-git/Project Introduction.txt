@@ -4,3 +4,5 @@ voice and visual manner.
 
 This application will be a standalone application which means user does not require to be 
 Connected to  the internet.
+
+This is an effective version of online virtual assistant like Jarvis, Siri, Azus. 
