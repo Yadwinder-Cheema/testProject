@@ -1,0 +1,4 @@
+Description: 
+
+
+In this Application user will be able to access privacy settings and will be allowed to enable or disable other applications of virtual assistant and machine learning application. However, if those are enabled they will get auto input and provide auto output according to user requirements. Moreover, user will be able to use New feature module to provide their ideas to developer and check others idea regarding development of this application. 
